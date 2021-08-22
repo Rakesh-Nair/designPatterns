@@ -1,0 +1,3 @@
+Substitute a subclass for a base class without breaking anything
+
+Subclass must not throw any new exception
