@@ -1,0 +1,4 @@
+Separation of Concern.
+
+Persistence
+Saving to File
