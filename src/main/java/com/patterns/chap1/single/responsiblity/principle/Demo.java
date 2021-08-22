@@ -1,4 +1,4 @@
-package com.patterns.chap1.single.responsiblity;
+package com.patterns.chap1.single.responsiblity.principle;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -7,7 +7,6 @@ import java.io.PrintStream;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
-import static java.lang.System.out;
 
 public class Demo {
     public static void main(String[] args) throws IOException {

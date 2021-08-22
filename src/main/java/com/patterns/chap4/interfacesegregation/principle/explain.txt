@@ -1,0 +1,7 @@
+Explains how interface can be split into multiple interfaces
+
+instead of creating a interface with different functions... create an interface for specific functions
+
+MultifunctionPrinter
+
+OldFashionedPrinter

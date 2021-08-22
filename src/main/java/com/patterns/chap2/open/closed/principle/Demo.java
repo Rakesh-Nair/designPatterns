@@ -1,4 +1,4 @@
-package com.patterns.chap2.open.closed.principal;
+package com.patterns.chap2.open.closed.principle;
 
 import java.util.List;
 import java.util.stream.Stream;

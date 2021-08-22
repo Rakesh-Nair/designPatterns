@@ -1,4 +1,4 @@
-package com.patterns.chap3.liskov.substitution.principal;
+package com.patterns.chap3.liskov.substitution.principle;
 
 class Rectangle{
     int length, width;
