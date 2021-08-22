@@ -1,0 +1,5 @@
+Not to touch existing functionality.
+
+Create new functionality.
+
+CLosed for Modification and Open for Inheritance.
