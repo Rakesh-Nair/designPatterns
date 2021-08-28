@@ -1,0 +1,13 @@
+Complicated objects are not designed from scratch
+
+Build objects from builder
+
+Customize and create new objects. ie Prototype
+
+eg car
+
+Complete copy of the object. Copying must be convenient probably done by Factory
+
+Deep Copy - Create new object with values as the original.
+
+Shallow Copy - Take reference and copy
