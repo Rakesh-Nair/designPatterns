@@ -10,7 +10,7 @@ public class Demo {
         Address address2 = SerializationUtils.roundtrip(address1);
         address2.flatNumber = 203;
         System.out.println("Address 1 "+ address1);
-        System.out.println("Address 2 "+address2);
+        System.out.println("Address 2 "+ address2);
     }
 }
 

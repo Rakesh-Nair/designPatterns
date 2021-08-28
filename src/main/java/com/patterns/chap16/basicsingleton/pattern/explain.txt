@@ -1,0 +1,7 @@
+Singleton is a component which is only instantiated once.
+Singleton can be used in following scenarios :-
+
+Database Repository
+Object Factory
+
+where constructor call is expensive and hence needs to be executed once
