@@ -1,0 +1,3 @@
+Copy Constructor - Create a new object by copying variables individually.
+
+Copy Constructor is better than implementing the Cloneable interface.
