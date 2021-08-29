@@ -1,0 +1,5 @@
+Enums doesnt have a public constructor... By default its private
+
+only name of instance serialized ... fields not serialized
+
+you cannot inherit from Enum and cannot serialize
