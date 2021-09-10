@@ -1,0 +1,6 @@
+Bridge prevents Cartesian Product complexity explosion
+
+Mechanism that decouples the interface (hierarchy) from an implementation (hierarchy)
+
+eg Shape -  Circle, Square
+	Renderer - Vector, Raster... 4 combinations available
