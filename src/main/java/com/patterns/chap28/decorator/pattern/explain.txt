@@ -1,0 +1,10 @@
+augment an object with additional functionality
+
+Do not want to rewrite or alter existing code OCP Open Closed Principle
+
+Single Responsiblity Principle
+
+
+Solution to build Decorator
+
+Facilitates addition of behaviour to individual objects without inheriting from them
