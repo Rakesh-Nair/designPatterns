@@ -1,0 +1,4 @@
+Avoid redundancy while storing data
+
+Flyweight pattern is a space optimization technique that lets us use less memory by storing externally the data associated
+ with similar objects

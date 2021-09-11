@@ -1,0 +1,6 @@
+Exposing several components through a single interface... making it convenient
+
+Balancing presentation and functionality
+
+
+provide a simple easy to understand interface over a large and sophisticated body of code
