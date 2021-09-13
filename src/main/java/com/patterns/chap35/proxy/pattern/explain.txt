@@ -1,0 +1,13 @@
+foo.bar()
+
+all foo related operation in separate process
+
+Proxy gives same interface but entirely different behaviour behind the scenes
+
+Also called communication proxy
+
+eg logging, virtual, guarding proxy
+
+
+A class that functions as an interface to a particular resouce. That resource  may be remote, expensive to construct
+or may require logging or some other functionality.
