@@ -50,7 +50,6 @@ class Property<T>{
 	
 }
 
-
 class Creature {
 	private Property<Integer> agility= new Property<>(10);
 	
