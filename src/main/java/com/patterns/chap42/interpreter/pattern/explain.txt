@@ -1,0 +1,8 @@
+Textual inputs need to be processed
+
+eg turn into OOP structures
+
+Compilers
+
+A component that processes structured text data. Does so by turning it into separate lexical tokens
+and their interpreting sequences of said tokens.
