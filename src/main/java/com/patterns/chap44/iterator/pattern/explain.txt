@@ -1,0 +1,3 @@
+Iterator is a class that facilitates the traversal.
+
+Java has Iterator and Iterable interfaces
