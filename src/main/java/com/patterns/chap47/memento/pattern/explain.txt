@@ -1,0 +1,13 @@
+Keep a memento of an object's state to return to that state
+
+A system or object goes through set of changes
+
+eg Bank Account
+
+one way to record every change ...Command pattern
+
+another approach is to save the snapshot of system at a particular time which enables user to rollback to 
+a particular time.
+
+A token/handle representing  the system state . Let us roll back to a state when token was generated.
+May or may not directly expose the state information
