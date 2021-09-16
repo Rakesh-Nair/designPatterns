@@ -1,0 +1,7 @@
+A behavioral design patter with no behaviors
+
+Imagine 2 components... A is dependent on B
+
+A assumes B is not null.. There is no option to tell A to not use the instance of B
+
+A no op object that confirms to the required interface satisfying a dependency requirement of some other object
