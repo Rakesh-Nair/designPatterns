@@ -1,0 +1,3 @@
+Many algorithms can be decomposed into higher and lower level parts
+
+Strategy pattern enables the exact behavior of system to be selected at runtime or compile time
