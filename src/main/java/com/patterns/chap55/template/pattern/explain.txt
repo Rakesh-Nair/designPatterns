@@ -1,0 +1,14 @@
+A high level blueprint for an algorithm to be completed by inheritors
+
+Algorithm can be decomposed into common parts and specifics.
+
+Strategy pattern does this through composition.
+
+Template Method does the same thing through inheritance
+
+Overall algorithm makes use of Abstract members.
+
+inheritors override the abstract members
+parent template method invoked
+
+Template method allows us to define the skeleton of the algorithm with concrete implementations defined in subclass
