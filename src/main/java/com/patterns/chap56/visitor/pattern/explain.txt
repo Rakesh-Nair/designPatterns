@@ -1,0 +1,4 @@
+Visitor allows adding extra behavior to entire hierarchies of classes.
+
+A pattern where a component is allowed to traverse the entire inheritance hierarchy. Implemented by propogating a single visit
+method throughout the entire hierarchy
