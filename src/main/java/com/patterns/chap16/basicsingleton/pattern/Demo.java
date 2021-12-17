@@ -10,7 +10,7 @@ public class Demo {
         instance.setValue(175);
         System.out.println("After creating Instance 2 ");
         System.out.println("Instance "+ instance);
-        System.out.println("Instance 2  "+ instance);
+        System.out.println("Instance 2  "+ instance2);
     }
 }
 
